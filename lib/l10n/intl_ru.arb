@@ -1,0 +1,23 @@
+{
+  "languages": "Языки",
+  "chooseALanguage": "Выберите язык",
+  "signUp": "Зарегистрироваться",
+  "firstName": "Имя",
+  "enterYourFirstName": "Введите свое имя",
+  "lastName": "Фамилия",
+  "enterYourLastName": "Введите свою фамилию",
+  "password": "Пароль",
+  "enterYourPassword": "Введите свой пароль",
+  "confirmPassword": "Подтвердите пароль",
+  "enterYourConfirmPassword": "Введите свой подтверждающий пароль",
+  "allFieldsMustBeFilledIn": "Все поля должны быть заполнены.",
+  "passwordsAreDifferent": "Пароли разные.",
+  "newAds": "Новые объявления",
+  "title": "Заголовок",
+  "enterProductTitle": "Введите название продукта",
+  "description": "Описание",
+  "enterTheDescription": "Введите описание",
+  "changeLocation": "Изменить местоположение",
+  "addressByLocation": "Адрес по местоположению",
+  "enterTheMapAddress": "Введите адрес"
+}

@@ -1,0 +1,23 @@
+{
+  "languages": "Languages",
+  "chooseALanguage": "Choose a language",
+  "signUp": "Sign Up",
+  "firstName": "First name",
+  "enterYourFirstName": "Enter your first name",
+  "lastName": "Last Name",
+  "enterYourLastName": "Enter your last name",
+  "password": "Password",
+  "enterYourPassword": "Enter your password",
+  "confirmPassword": "Confirm password",
+  "enterYourConfirmPassword": "Enter your confirm password",
+  "allFieldsMustBeFilledIn": "All fields must be filled in.",
+  "passwordsAreDifferent": "Passwords are different.",
+  "newAds": "New ads",
+  "title": "Title",
+  "enterProductTitle": "Enter product title",
+  "description": "Description",
+  "enterTheDescription": "Enter the description",
+  "changeLocation": "Change location",
+  "addressByLocation": "Address by location",
+  "enterTheMapAddress": "Enter the map address"
+}

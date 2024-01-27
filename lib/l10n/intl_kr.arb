@@ -1,0 +1,23 @@
+{
+  "languages": "Тиллар",
+  "chooseALanguage": "Тилни танланг",
+  "signUp": "Рўйхатдан Ўтиш",
+  "firstName": "Исм",
+  "enterYourFirstName": "Исмингизни киритинг",
+  "lastName": "Фамилия",
+  "enterYourLastName": "Фамилиянгизни киритинг",
+  "password": "Парол",
+  "enterYourPassword": "Паролингизни киритинг",
+  "confirmPassword": "Паролни тасдиқланг",
+  "enterYourConfirmPassword": "Тасдиқлаш паролингизни киритинг",
+  "allFieldsMustBeFilledIn": "Барча майдонлар тўлдирилиши керак.",
+  "passwordsAreDifferent": "Пароллар икки хил.",
+  "newAds": "Янги рекламалар",
+  "title": "Сарлавҳа",
+  "enterProductTitle": "Маҳсулот номини киритинг",
+  "description": "Тавсиф",
+  "enterTheDescription": "Тавсифни киритинг",
+  "changeLocation": "Манзилни ўзгартириш",
+  "addressByLocation": "Манзил бўйича излаш",
+  "enterTheMapAddress": "Манзилини киритинг"
+}

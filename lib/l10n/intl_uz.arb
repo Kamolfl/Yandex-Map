@@ -1,0 +1,23 @@
+{
+  "languages": "Tillar",
+  "chooseALanguage": "Tilni tanlang",
+  "signUp": "Ro'yxatdan O'tish",
+  "firstName": "Ism",
+  "enterYourFirstName": "Ismingizni kiriting",
+  "lastName": "Familiya",
+  "enterYourLastName": "Familiyangizni kiriting",
+  "password": "Parol",
+  "enterYourPassword": "Parolingizni kiriting",
+  "confirmPassword": "Parolni tasdiqlang",
+  "enterYourConfirmPassword": "Tasdiqlash parolingizni kiriting",
+  "allFieldsMustBeFilledIn": "Barcha maydonlar to'ldirilishi kerak.",
+  "passwordsAreDifferent": "Parollar boshqacha.",
+  "newAds": "Yangi reklamalar",
+  "title": "Sarlavha",
+  "enterProductTitle": "Mahsulot nomini kiriting",
+  "description": "Tavsif",
+  "enterTheDescription": "Tavsifni kiriting",
+  "changeLocation": "Manzilni o'zgartirish",
+  "addressByLocation": "Manzil bo'yicha izlash",
+  "enterTheMapAddress": "Manzilni kiriting"
+}
